@@ -20,7 +20,7 @@ summary(storms)
 
 Look at the variable names: 
 ```{r}
-names(storms)
+names(storms) 
 ```
 
 ## Step 2: Exploratory visualization
